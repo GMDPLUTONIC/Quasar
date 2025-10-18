@@ -6,6 +6,7 @@ An efficient, useful, programming language for making large numbers.
 - Easily extensible: easily make your own extensions using other extensions or from scratch.
 - Cross-program functions: use functions from other programs. Just make sure to add the extra files to your program folder!
 - Tiny syntax: Quasar is built for being small and very efficient. You can make some of the largest numbers ever using HALF the amount of characters usually needed for large numbers!
+- Code in real words: if you have a complex function/extension, you can write down REAL LIFE words so people can understand your code.
 
 ## Compilation:
 As of 10/17/2025, I have not and do not plan to make a compiler/interpreter for Quasar.
