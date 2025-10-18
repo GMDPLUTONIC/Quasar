@@ -23,9 +23,9 @@ Making your own large numbers in Quasar is very easy. As stated before, you can 
 
 ```
 Main
-    hyp(100,100)
+    EA(100,100)
 ```
-In the function used (hyperoperation), the 1st number is the hyperoperation level (100th level), and the 2nd number is the base and exponent.
+In the function used (Easy Arrow), the 1st number is the hyperoperation level (102nd level), and the 2nd number is the base and exponent (100).
 
 ### Making your own functions in Quasar:
 To define your own function using Quasar, you have to write something like this:
