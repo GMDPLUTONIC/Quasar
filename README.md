@@ -33,5 +33,8 @@ Your-function-name
     // definition
 ```
 
+## Extensions:
+You can add/use any extension defined using Quasar. There are 2 ways to do this: 1. define your own extension: more flexibility + more potential value. Takes time and characters: bad for competitions. 2. Use pre-made extensions: less flexibility + less potential value. Takes very little time and very little characters: useful in competitions.
+
 ## Inspiration:
 I made Quasar because I wanted people to have the ability to make stuff like Loader's number while not requiring to learn complex programming or mathematics.
