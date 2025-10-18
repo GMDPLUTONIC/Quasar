@@ -13,7 +13,7 @@ As of 10/17/2025, I have not and do not plan to make a compiler/interpreter for 
 ## Tutorial:
 Making your own large numbers in Quasar is very easy. As stated before, you can make complex/simple equations using our mathematical syntax.
 
-### Making your first large number in Quasar:+
+### Making your first large number in Quasar:
 1. Make a new file with any name you want. Just make sure to add .qs at the end to show that it's made in Quasar.
 
 2. Open your newly made Quasar file.
