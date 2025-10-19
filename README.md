@@ -1,5 +1,5 @@
 # Quasar:
-An efficient, useful, programming language for making large numbers.
+(Not to be confused with Qt Script or Q#) An efficient, useful, programming language for making large numbers.
 
 ## Features:
 - Mathematical syntax: make complex mathematical equations in very short lines of code using premade/custom extensions.
