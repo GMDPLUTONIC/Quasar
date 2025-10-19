@@ -1,2 +1,2 @@
 Zootzootplex
-    Googolplex! // factorial of a googolplex
+    h(Googolplex) // hyperfactorial of a googolplex
