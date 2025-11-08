@@ -7,7 +7,7 @@ G(x,y)
      else
         G(x-1,y*y)
 
-I H(I x,I y)
+H(x,y)
     if y=1
         G¹⁰⁰⁰⁰(G¹⁰⁰⁰⁰(x*x,x*x),1000)
     else
